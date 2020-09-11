@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/konsumer/kasa_control#readme",
   "dependencies": {
-    "node-fetch": "latest",
+    "node-fetch": "2.6.1",
     "uuid4": "latest"
   },
   "devDependencies": {
